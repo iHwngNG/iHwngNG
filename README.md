@@ -13,7 +13,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwngnguyennnn@gmail.com)
+[![Gmail](https://img.shields.io/badge/hwngnguyennnn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwngnguyennnn@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://YOUR_PORTFOLIO.dev)
 
 </div>
