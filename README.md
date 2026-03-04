@@ -167,20 +167,14 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                              -->
+<!--                    ENGINEERING QUOTE                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
+## 💬 Engineering Mindset
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iHwngNG&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iHwngNG&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=iHwngNG&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&dates=8b949e" alt="GitHub Streak"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&width=750&lines=%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+%E2%80%94+Kent+Beck;%22Any+fool+can+write+code+that+a+computer+can+understand.%22+%E2%80%94+Martin+Fowler;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson;%22Data+is+the+new+oil.+AI+is+the+new+electricity.%22+%E2%80%94+Andrew+Ng;%22In+God+we+trust%3B+all+others+bring+data.%22+%E2%80%94+W.+Edwards+Deming;%22Bad+programmers+worry+about+the+code.+Good+ones+worry+about+the+system.%22+%E2%80%94+Linus+Torvalds)](https://github.com/iHwngNG)
 
 </div>
 
@@ -196,11 +190,9 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 <br/>
 
-Feel free to contact me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=99999&color=8B949E&center=true&vCenter=true&width=420&lines=Feel+free+to+contact+me+%E2%80%94+%E2%86%92+%E2%86%92+%E2%86%92)](https://github.com/iHwngNG)
 
-<br/>
-
-[**↑ here**](#)
+[**↑ here**](#ihwngng)
 
 <br/>
 
