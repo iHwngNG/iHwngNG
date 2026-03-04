@@ -13,7 +13,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hung-nguyen-6078a1379/)
-[![Gmail](https://img.shields.io/badge/hwngnguyennnn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hwngnguyennnn@gmail.com)
+[![Gmail](https://img.shields.io/badge/hwngnguyennnn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](#)
 [![Website](https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](#)
 
 </div>
