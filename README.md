@@ -135,10 +135,9 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| [**rag-production-kit**](https://github.com/iHwngNG/rag-production-kit) | End-to-end RAG system with hybrid search, re-ranking, and streaming responses | LLM answers with wrong/hallucinated facts from private docs | `LangChain` `Qdrant` `FastAPI` `OpenAI` |
-| [**llm-agent-framework**](https://github.com/iHwngNG/llm-agent-framework) | Multi-agent orchestration with tool use, memory, and reflection loops via LangGraph | Complex tasks that single-prompt LLMs can't handle reliably | `LangGraph` `CrewAI` `Python` `Redis` |
-| [**ai-fine-tuning-pipeline**](https://github.com/iHwngNG/ai-fine-tuning-pipeline) | Automated fine-tuning pipeline for domain-specific LLMs with evaluation suite | General-purpose models underperform on specialized domains | `HuggingFace` `LoRA` `Transformers` `Wandb` |
-| [**llm-api-gateway**](https://github.com/iHwngNG/llm-api-gateway) | Unified AI API gateway with rate limiting, caching, fallback routing across providers | Vendor lock-in and unpredictable LLM API costs in production | `FastAPI` `Redis` `Docker` `OpenAI` `Anthropic` |
+| [VNExpress RAG News Assistant](https://github.com/iHwngNG/project-vnexpress-rag-pipeline) | An intelligent assisstant helps you summary newest news on VNExpress everyday | Help who is lazy update newest news without effort | `LangChain` `ChromaDB` |
+| None | None | None | `None` |
+| None | None | None | `None` |
 
 <br/>
 
@@ -146,10 +145,10 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| [**etl-orchestrator**](https://github.com/iHwngNG/etl-orchestrator) | Modular ETL framework on Airflow with dynamic DAG generation and data quality checks | Brittle, hard-to-maintain spaghetti data pipelines | `Airflow` `dbt` `Spark` `PostgreSQL` |
-| [**crawl-engine**](https://github.com/iHwngNG/crawl-engine) | High-throughput async web crawler with proxy rotation, rate limiting, and structured extraction | Scaling data collection without getting blocked or rate-limited | `Scrapy` `Playwright` `Redis` `MongoDB` |
-| [**stream-processor**](https://github.com/iHwngNG/stream-processor) | Real-time event stream processing system with exactly-once delivery guarantees | Processing high-volume events with data loss or duplication | `Kafka` `Spark Streaming` `Polars` `Docker` |
-| [**data-quality-monitor**](https://github.com/iHwngNG/data-quality-monitor) | Automated data quality framework with schema validation, anomaly detection, and alerting | Silent data corruption that breaks downstream ML models | `Great Expectations` `Airflow` `Pandas` `Slack` |
+| [VNEprexx ETL Pipeline](https://github.com/iHwngNG/project-vnexpress-etl-pipeline) | A pipeline executes news crawling as scheduled | Crawl news without effort for anyone | `Airflow` `ChromaDB` |
+| None | None | None | `None` |
+| None | None | None | `None` |
+| None | None | None | `None` |
 
 <br/>
 
@@ -157,10 +156,10 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| [**fastapi-boilerplate**](https://github.com/iHwngNG/fastapi-boilerplate) | Production-ready FastAPI template with auth, async DB, background tasks, and full Docker setup | Wasting hours configuring the same boilerplate for every new service | `FastAPI` `SQLAlchemy` `Pydantic` `Docker` |
-| [**async-task-queue**](https://github.com/iHwngNG/async-task-queue) | Lightweight async task queue with retry logic, priority scheduling, and dead-letter handling | Overengineering simple background jobs with heavy frameworks | `asyncio` `Redis` `Python` |
-| [**py-scraper-toolkit**](https://github.com/iHwngNG/py-scraper-toolkit) | Batteries-included scraping toolkit with anti-bot bypass, session management, and parsers | Repeating the same boilerplate across every scraping project | `Playwright` `Requests` `BeautifulSoup` `Proxy` |
-| [**config-manager**](https://github.com/iHwngNG/config-manager) | Hierarchical config management library with environment override, secrets injection, and validation | Scattered, inconsistent config handling across dev/staging/prod | `Pydantic` `Python` `dotenv` `YAML` |
+| None | None | None | `None` |
+| None | None | None | `None` |
+| None | None | None | `None` |
+| None | None | None | `None` |
 
 <br/>
 
