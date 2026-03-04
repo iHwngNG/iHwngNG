@@ -137,8 +137,6 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 | Project | Description | Solves | Tags |
 |---|---|---|---|
 | [VNExpress RAG News Assistant](https://github.com/iHwngNG/project-vnexpress-rag-pipeline) | An intelligent assisstant helps you summary newest news on VNExpress everyday | Help who is lazy update newest news without effort | `LangChain` `ChromaDB` |
-| None | None | None | `None` |
-| None | None | None | `None` |
 
 <br/>
 
@@ -147,9 +145,6 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 | Project | Description | Solves | Tags |
 |---|---|---|---|
 | [VNEprexx ETL Pipeline](https://github.com/iHwngNG/project-vnexpress-etl-pipeline) | A pipeline executes news crawling as scheduled | Crawl news without effort for anyone | `Airflow` `ChromaDB` |
-| None | None | None | `None` |
-| None | None | None | `None` |
-| None | None | None | `None` |
 
 <br/>
 
@@ -157,9 +152,6 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| None | None | None | `None` |
-| None | None | None | `None` |
-| None | None | None | `None` |
 | None | None | None | `None` |
 
 <br/>
