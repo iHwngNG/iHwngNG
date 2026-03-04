@@ -144,7 +144,7 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| [VNEprexx ETL Pipeline](https://github.com/iHwngNG/project-vnexpress-etl-pipeline) | A pipeline executes news crawling as scheduled | Crawl news without effort for anyone | `Airflow` `ChromaDB` |
+| [VNEpress ETL Pipeline](https://github.com/iHwngNG/project-vnexpress-etl-pipeline) | A pipeline executes news crawling as scheduled | Crawl news without effort for anyone | `Airflow` `ChromaDB` |
 
 <br/>
 
