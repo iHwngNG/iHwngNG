@@ -60,11 +60,12 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
     <td>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CrewAI-10b981?style=flat-square&logo=crewai&logoColor=white"/>
       <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
       <img src="https://img.shields.io/badge/RAG-58a6ff?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Fine--Tuning-bc8cff?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LLM-Engineering-007acc?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
