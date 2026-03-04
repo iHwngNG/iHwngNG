@@ -190,7 +190,8 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=99999&color=8B949E&center=true&vCenter=true&width=420&lines=Feel+free+to+contact+me+%E2%86%92)](https://github.com/iHwngNG)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=99999&color=8B949E&center=true&vCenter=true&width=420&lines=Feel+free+to+contact+me)](https://github.com/iHwngNG)
+
 [**here**](#ihwngng)
 
 <br/>
