@@ -146,6 +146,7 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 |---|---|---|---|
 | [VNExpress ETL Pipeline](https://github.com/iHwngNG/project-vnexpress-etl-pipeline) | A pipeline executes news crawling as scheduled | Crawl news without effort for anyone | `Airflow` `ChromaDB` |
 | [Real-time E-commerce Analytics Platform Simulation](https://github.com/iHwngNG/Real-time-E-commerce-Analytics-Platform-Simulation) | End-to-end from big data processing pipeline to build a dashboard for monitoring | N/A | `Spark` `Airflow` `dbt` |
+| [Vietnam Job Market Intelligence Pipeline](https://github.com/iHwngNG/Job-Market-Pipeline) | An end-to-end data pipeline to crawl, ingest, process, model, and visualize IT job market data in Vietnam. | N/A | `Spark` `Airflow` `dbt` `PostgreSQL` `Kafka` `Streamlit`|
 
 <br/>
 
