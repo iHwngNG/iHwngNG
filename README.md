@@ -136,7 +136,7 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| [VNExpress RAG News Assistant](https://github.com/iHwngNG/project-vnexpress-rag-pipeline) | An intelligent assisstant helps you summary newest news on VNExpress everyday | Help who is lazy update newest news without effort | `LangChain` `ChromaDB` |
+|None|None|None|`None`|
 
 <br/>
 
