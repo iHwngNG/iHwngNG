@@ -154,7 +154,7 @@ Hi, I'm **Hưng** — an **AI Engineer, Data Engineer & Python Developer** based
 
 | Project | Description | Solves | Tags |
 |---|---|---|---|
-| [Automated Google Image Translator](https://github.com/iHwngNG/Automated-Google-Image-Translator) | A standalone Python utility that automates bulk image translations using Google Translate. Powered by Chrome CDP and Playwright for seamless, multi-threaded batch processing | Wasting time on repetive translating image process| `python` `automation` `playwright` `chomecdp`|
+| [Automated Google Image Translator](https://github.com/iHwngNG/Automated-Google-Image-Translator) | A standalone Python utility that automates bulk image translations using Google Translate. Powered by Chrome CDP and Playwright for seamless, multi-threaded batch processing | Wasting time on repetive translating image process| `python` `automation` `playwright` `chromecdp`|
 
 <br/>
 
